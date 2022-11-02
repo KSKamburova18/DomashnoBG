@@ -8,6 +8,6 @@ public class contact {
 
     @GetMapping("/contact")
     public String info(){
-        return "KSKamburova18";
+        return "email:KSKamburova18";
     }
 }
