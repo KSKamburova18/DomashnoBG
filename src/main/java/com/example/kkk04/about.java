@@ -8,6 +8,6 @@ public class about {
 
     @GetMapping("/about")
     public String info(){
-        return "Malko info za men";
+        return "Malko info za menн";
     }
 }
